@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>問題画面｜臨床検査技師国家試験対策アプリ</title>
+<link rel="stylesheet" href="../CSS/style.css">
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="theme-color" content="#2855a6">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="国試対策">
+<link rel="apple-touch-icon" href="./icons/app-192.png">
+</head>
+<body>
+
+<div class="device">
+  <div class="device__topbar">
+    <a class="topbar-back" href="index.html">‹ トップへ</a>
+    <span class="topbar-title" id="exam-title">問題演習</span>
+  </div>
+  <div class="device__body">
+
+    <div class="q-metabar">
+      <span id="question-count">読み込み中</span>
+      <span class="q-tag" id="question-subject"></span>
+      <button class="q-flag-button" id="flag-button" type="button" aria-pressed="false">⚑ フラグを付ける</button>
+    </div>
+    <div class="q-progress"><span id="progress-bar"></span></div>
+
+    <p class="q-text" id="question-text"></p>
+
+    <div class="q-images" id="question-images"></div>
+
+    <div class="choices" id="choices"></div>
+
+    <div class="q-action">
+      <button class="btn btn-primary" id="question-action" type="button">回答を確認する</button>
+    </div>
+
+  </div>
+</div>
+
+<script src="../JS/app.js"></script>
+</body>
+</html>

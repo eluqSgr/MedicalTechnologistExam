@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>出題順を選ぶ｜臨床検査技師国家試験対策アプリ</title>
+<link rel="stylesheet" href="../CSS/style.css">
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="theme-color" content="#2855a6">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="国試対策">
+<link rel="apple-touch-icon" href="./icons/app-192.png">
+</head>
+<body>
+
+<div class="device">
+  <div class="device__topbar">
+    <a class="topbar-back" href="index.html">‹ トップへ</a>
+    <span class="topbar-title">問題演習</span>
+  </div>
+  <div class="device__body">
+    <p class="section-heading" id="exam-mode-title">出題順を選ぶ</p>
+    <p class="exam-mode-description" id="exam-mode-description"></p>
+    <div class="list-rows">
+      <button class="list-row" type="button" data-order="sequential">
+        <span>上から順に解く</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button" data-order="random">
+        <span>ランダムに解く</span>
+        <span class="row-arrow">›</span>
+      </button>
+    </div>
+  </div>
+</div>
+
+<script src="../JS/app.js"></script>
+</body>
+</html>

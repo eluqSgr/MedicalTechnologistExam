@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>学習状況｜臨床検査技師国家試験対策アプリ</title>
+<link rel="stylesheet" href="../CSS/style.css">
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="theme-color" content="#2855a6">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="国試対策">
+<link rel="apple-touch-icon" href="./icons/app-192.png">
+</head>
+<body>
+
+<div class="device">
+  <div class="device__topbar">
+    <a class="topbar-back" href="index.html">‹ トップへ</a>
+    <span class="topbar-title">学習状況</span>
+  </div>
+  <div class="device__body">
+    <div class="result-score">
+      <div class="score-num" id="progress-total">0 / 0</div>
+      <p class="score-rate" id="progress-rate">まだ回答がありません</p>
+    </div>
+
+    <p class="section-heading">過去回ごとの正答率</p>
+    <div class="list-rows" id="exam-progress-list"></div>
+
+    <p class="section-heading">分野別の正答率</p>
+    <div class="list-rows" id="subject-progress-list"></div>
+  </div>
+</div>
+
+<script src="../JS/app.js"></script>
+</body>
+</html>

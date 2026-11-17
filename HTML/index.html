@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>トップ画面｜臨床検査技師国家試験対策アプリ</title>
+<link rel="stylesheet" href="../CSS/style.css">
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="theme-color" content="#2855a6">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="国試対策">
+<link rel="apple-touch-icon" href="./icons/app-192.png">
+</head>
+<body>
+
+<div class="device">
+  <div class="device__body">
+
+    <div class="top-hero">
+      <p class="hero-eyebrow">過去問題で学ぶ</p>
+      <h2>臨床検査技師<br>国家試験対策</h2>
+      <p>年度・分野を選んで問題演習をはじめましょう</p>
+    </div>
+
+    <button class="btn btn-primary" id="install-app" type="button" hidden>この端末にアプリを追加</button>
+    <p class="offline-note" id="offline-status">初回はオンラインで開いて、オフライン用データの保存が終わるまでお待ちください。</p>
+    <details class="install-help">
+      <summary>ホーム画面に追加する方法</summary>
+      <p>iPhone・iPad：Safariの共有ボタンから「ホーム画面に追加」を選びます。</p>
+      <p>Android：表示された「この端末にアプリを追加」ボタン、またはブラウザのメニューからインストールします。</p>
+      <p>パソコン：ChromeやEdgeのアドレスバーにあるインストールボタン、またはブラウザのメニューからインストールします。</p>
+    </details>
+
+    <p class="section-heading">実施回から選ぶ</p>
+    <div class="list-rows list-rows-scrollable">
+      <button class="list-row" type="button" data-exam="72" data-session="AM">
+        <span>第72回 午前</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button" data-exam="72" data-session="PM">
+        <span>第72回 午後</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第71回 午前</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第71回 午後</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第70回 午前</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第70回 午後</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第69回 午前</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第69回 午後</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第68回 午前</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第68回 午後</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第67回 午前</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第67回 午後</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第66回 午前</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第66回 午後</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第65回 午前</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第65回 午後</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第64回 午前</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第64回 午後</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第63回 午前</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button">
+        <span>第63回 午後</span>
+        <span class="row-arrow">›</span>
+      </button>
+    </div>
+
+    <p class="section-heading">分野から選ぶ</p>
+    <div class="list-rows list-rows-scrollable">
+      <button class="list-row" type="button" data-subject="臨床検査医学総論">
+        <span>臨床検査医学総論</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button" data-subject="臨床検査総論">
+        <span>臨床検査総論</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button" data-subject="臨床生理学">
+        <span>臨床生理学</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button" data-subject="臨床化学">
+        <span>臨床化学</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button" data-subject="病理組織細胞学">
+        <span>病理組織細胞学</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button" data-subject="臨床血液学">
+        <span>臨床血液学</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button" data-subject="臨床微生物学">
+        <span>臨床微生物学</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button" data-subject="臨床免疫学">
+        <span>臨床免疫学</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button" data-subject="輸血・移植検査学">
+        <span>輸血・移植検査学</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button" data-subject="公衆衛生学">
+        <span>公衆衛生学</span>
+        <span class="row-arrow">›</span>
+      </button>
+      <button class="list-row" type="button" data-subject="医用工学概論">
+        <span>医用工学概論</span>
+        <span class="row-arrow">›</span>
+      </button>
+    </div>
+
+    <div class="quick-links">
+      <a href="flag-list.html">フラグ問題</a>
+      <a href="progress.html">学習状況</a>
+    </div>
+
+  </div>
+</div>
+
+<script src="../JS/app.js"></script>
+</body>
+</html>

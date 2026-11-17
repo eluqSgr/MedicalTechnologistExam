@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>結果画面｜臨床検査技師国家試験対策アプリ</title>
+<link rel="stylesheet" href="../CSS/style.css">
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="theme-color" content="#2855a6">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="国試対策">
+<link rel="apple-touch-icon" href="./icons/app-192.png">
+</head>
+<body>
+
+<div class="device">
+  <div class="device__topbar">
+    <a class="topbar-back" href="index.html">‹ トップへ</a>
+    <span class="topbar-title" id="result-title">結果</span>
+  </div>
+  <div class="device__body">
+
+    <div class="result-score">
+      <div class="score-num" id="score-num">0 / 0</div>
+      <p class="score-rate" id="score-rate">正答率 0%</p>
+    </div>
+
+    <p class="section-heading">間違えた問題</p>
+    <div class="list-rows" id="incorrect-list"></div>
+
+    <div class="result-actions">
+      <button class="btn btn-primary" id="retry-button" type="button">もう一度解く</button>
+      <a class="btn btn-secondary" href="index.html">トップへ戻る</a>
+    </div>
+
+  </div>
+</div>
+
+<script src="../JS/app.js"></script>
+</body>
+</html>
