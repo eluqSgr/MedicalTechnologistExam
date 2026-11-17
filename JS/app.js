@@ -10,14 +10,56 @@
   const $ = (selector) => document.querySelector(selector);
 
   // 公開サイトを一度開くと、画面・問題・図版を端末に保存してオフライン利用できる。
+  async function hasSavedOfflineData() {
+    if (!("caches" in window)) return false;
+
+    const cacheNames = (await caches.keys()).filter((name) => name.startsWith("kensa-study-offline-"));
+    for (const cacheName of cacheNames) {
+      const cache = await caches.open(cacheName);
+      const indexResponse = await cache.match(new URL("../data/index.json", location.href));
+      if (!indexResponse) continue;
+
+      try {
+        const index = await indexResponse.json();
+        const dataResponses = await Promise.all(index.files.map((file) =>
+          cache.match(new URL(`../data/${file}`, location.href))
+        ));
+        if (dataResponses.every(Boolean)) return true;
+      } catch {
+        // 読めないキャッシュは保存済みとして扱わない。
+      }
+    }
+    return false;
+  }
+
   if ("serviceWorker" in navigator) {
-    window.addEventListener("load", () => {
-      navigator.serviceWorker.register("./service-worker.js").catch(() => {});
-      navigator.serviceWorker.ready.then(() => {
-        const status = $("#offline-status");
-        if (status) status.textContent = "オフライン用データをこの端末に保存しました。ホーム画面に追加すると、通信がない場所でも使えます。";
-      }).catch(() => {});
+    window.addEventListener("load", async () => {
+      const status = $("#offline-status");
+      const savedBeforeOpening = await hasSavedOfflineData();
+      if (savedBeforeOpening && status) status.textContent = "データ保存済み";
+      if (!savedBeforeOpening && status) status.textContent = "初回データを保存しています。このままお待ちください。";
+
+      try {
+        await navigator.serviceWorker.register("./service-worker.js");
+        await navigator.serviceWorker.ready;
+
+        const isSaved = await hasSavedOfflineData();
+        if (!isSaved) {
+          if (status) status.textContent = "保存できませんでした。通信状態を確認して、もう一度開いてください。";
+          return;
+        }
+
+        if (status) status.textContent = "データ保存済み";
+        if (!savedBeforeOpening) {
+          window.alert("オフライン用データのダウンロードが完了しました。次回から通信がない場所でも使えます。");
+        }
+      } catch {
+        if (status) status.textContent = "保存できませんでした。SafariまたはChromeでオンライン接続して、もう一度開いてください。";
+      }
     });
+  } else {
+    const status = $("#offline-status");
+    if (status) status.textContent = "このブラウザではオフライン保存に対応していません。SafariまたはChromeで開いてください。";
   }
 
   let installPrompt = null;
