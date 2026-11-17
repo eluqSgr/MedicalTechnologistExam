@@ -1,4 +1,4 @@
-const CACHE_NAME = "kensa-study-offline-v1";
+const CACHE_NAME = "kensa-study-offline-v2";
 const APP_FILES = [
   "./index.html",
   "./exam-list.html",
@@ -9,6 +9,9 @@ const APP_FILES = [
   "./progress.html",
   "./flag-list.html",
   "./manifest.webmanifest",
+  "./icons/app-192.png",
+  "./icons/app-512.png",
+  "./icons/splash-mark.png",
   "../CSS/style.css",
   "../JS/app.js",
   "../data/index.json",

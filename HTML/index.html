@@ -6,12 +6,36 @@
 <title>トップ画面｜臨床検査技師国家試験対策アプリ</title>
 <link rel="stylesheet" href="../CSS/style.css">
 <link rel="manifest" href="./manifest.webmanifest">
-<meta name="theme-color" content="#2855a6">
+<meta name="theme-color" content="#4b88e6">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="国試対策">
+<meta name="apple-mobile-web-app-title" content="臨床検査技師">
 <link rel="apple-touch-icon" href="./icons/app-192.png">
+<script>
+  try {
+    if (!sessionStorage.getItem("kensa-study-splash-shown")) {
+      sessionStorage.setItem("kensa-study-splash-shown", "true");
+      document.documentElement.classList.add("show-launch-screen");
+    }
+  } catch {
+    // ストレージが使えない場合は、トップ画面へ戻るたびに表示しない。
+  }
+</script>
 </head>
 <body>
+
+<div class="splash-screen" id="app-splash" role="status" aria-label="アプリを起動しています">
+  <div class="splash-card">
+    <span class="splash-orb splash-orb--top" aria-hidden="true"></span>
+    <div class="splash-content">
+      <img class="splash-mark" src="./icons/splash-mark.png" alt="">
+      <h1>臨床検査技師</h1>
+      <p class="splash-subtitle">国家資格 勉強アプリ</p>
+      <p class="splash-tagline">学ぶ、つながる、合格へ。</p>
+      <div class="splash-progress" aria-hidden="true"><span></span></div>
+    </div>
+    <span class="splash-orb splash-orb--bottom" aria-hidden="true"></span>
+  </div>
+</div>
 
 <div class="device">
   <div class="device__body">

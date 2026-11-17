@@ -9,6 +9,17 @@
   const circledNumbers = ["①", "②", "③", "④", "⑤"];
   const $ = (selector) => document.querySelector(selector);
 
+  if (pageName === "index.html") {
+    const splash = $("#app-splash");
+    if (splash && document.documentElement.classList.contains("show-launch-screen")) {
+      window.setTimeout(() => {
+        splash.classList.add("is-hidden");
+        splash.setAttribute("aria-hidden", "true");
+        document.documentElement.classList.remove("show-launch-screen");
+      }, 1500);
+    }
+  }
+
   // 公開サイトを一度開くと、画面・問題・図版を端末に保存してオフライン利用できる。
   async function hasSavedOfflineData() {
     if (!("caches" in window)) return false;

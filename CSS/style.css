@@ -8,9 +8,9 @@
   --line: #d7ddd3;
   --line-strong: #b9c3ba;
 
-  --accent: #0e7c7b;
-  --accent-deep: #0a5f5e;
-  --accent-wash: #e6f2f0;
+  --accent: #4b88e6;
+  --accent-deep: #2869bd;
+  --accent-wash: #eaf3ff;
 
   --correct: #2f7d46;
   --correct-wash: #eaf5ec;
@@ -330,6 +330,158 @@ body {
 
 .install-help p {
   margin: 8px 0;
+}
+
+/* ---------- Launch screen ---------- */
+.splash-screen {
+  position: fixed;
+  z-index: 20;
+  inset: 0;
+  display: none;
+  place-items: center;
+  background: #fff;
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 280ms ease, visibility 280ms ease;
+}
+
+html.show-launch-screen .splash-screen {
+  display: grid;
+}
+
+.splash-screen.is-hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.splash-card {
+  position: relative;
+  isolation: isolate;
+  width: min(100%, 486px);
+  height: min(100dvh, 994px);
+  min-height: 620px;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+  border: 1px solid #dce5f0;
+  border-radius: 12px;
+  background: linear-gradient(145deg, #fff 0%, #fbfdff 100%);
+}
+
+.splash-content {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  padding: 24px;
+  margin-top: 4px;
+  text-align: center;
+}
+
+.splash-mark {
+  display: block;
+  width: 190px;
+  height: 190px;
+  object-fit: contain;
+  margin: 0 auto 26px;
+}
+
+.splash-content h1 {
+  margin: 0;
+  color: #34445b;
+  font-size: clamp(25px, 6vw, 34px);
+  font-weight: 600;
+  letter-spacing: 0.16em;
+}
+
+.splash-subtitle {
+  margin: 8px 0 0;
+  color: #46566d;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+}
+
+.splash-tagline {
+  margin: 44px 0 0;
+  color: #9aaac0;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+}
+
+.splash-progress {
+  width: min(196px, 60%);
+  height: 8px;
+  margin: 104px auto 0;
+  overflow: hidden;
+  border-radius: 999px;
+  background: #dcecff;
+}
+
+.splash-progress span {
+  display: block;
+  width: 0;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #4b88e6, #70a9f4);
+  animation: splash-load 1.35s ease-out forwards;
+}
+
+.splash-orb {
+  position: absolute;
+  z-index: 0;
+  width: 360px;
+  height: 360px;
+  border-radius: 50%;
+  background: #e5f1ff;
+}
+
+.splash-orb--top {
+  top: -210px;
+  left: -180px;
+}
+
+.splash-orb--bottom {
+  right: -160px;
+  bottom: -245px;
+  width: 365px;
+  height: 365px;
+}
+
+@keyframes splash-load {
+  to { width: 100%; }
+}
+
+@media (max-width: 520px) {
+  .splash-card {
+    width: 100%;
+    height: 100dvh;
+    min-height: 0;
+    border: 0;
+    border-radius: 0;
+  }
+
+  .splash-mark {
+    width: 172px;
+    height: 172px;
+    margin-bottom: 24px;
+  }
+
+  .splash-progress {
+    margin-top: 90px;
+  }
+}
+
+@media (max-height: 650px) {
+  .splash-card { min-height: 0; }
+  .splash-mark { width: 132px; height: 132px; margin-bottom: 16px; }
+  .splash-tagline { margin-top: 24px; }
+  .splash-progress { margin-top: 44px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .splash-screen { transition: none; }
+  .splash-progress span { animation-duration: 1ms; }
 }
 
 /* ---------- Question screen ---------- */
