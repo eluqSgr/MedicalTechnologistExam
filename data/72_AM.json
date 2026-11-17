@@ -1,0 +1,1950 @@
+[
+  {
+    "id": "72-AM-001",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 1,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "糖尿病の1型と2型の分類に有用な検査項目はどれか。2つ選べ。",
+    "choices": [
+      "血糖",
+      "HbA1c",
+      "インスリン",
+      "抗GAD抗体",
+      "グリコアルブミン"
+    ],
+    "answer": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "72-AM-002",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 2,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "検査項目で負の相関となる組合せはどれか。",
+    "choices": [
+      "AST —---- ALT",
+      "ChE —---- アルブミン",
+      "ナトリウム -----— クロール",
+      "クレアチニン —----- 尿素窒素",
+      "トリグリセライド —---- HDL-コレステロール"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-003",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 3,
+    "subject": "臨床検査総論",
+    "image": [
+      "72_AM/72_AM_003_A.png",
+      "72_AM/72_AM_003_B.png"
+    ],
+    "question": "尿沈渣の無染色標本(別冊No. 1A) 及び Sternheimer 染色標本(別冊No. 1B)を別に示す。\nこの構造物はどれか。",
+    "choices": [
+      "硝子円柱",
+      "顆粒円柱",
+      "上皮円柱",
+      "赤血球円柱",
+      "ろう様円柱"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-004",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 4,
+    "subject": "臨床微生物学",
+    "image": [],
+    "question": "原虫に用いられない染色法はどれか。",
+    "choices": [
+      "アクリジンオレンジ染色",
+      "抗酸染色",
+      "Giemsa 染色",
+      "Gram 染色",
+      "Kohn 染色"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-005",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 5,
+    "subject": "臨床微生物学",
+    "image": [],
+    "question": "蟯虫で誤っているのはどれか。",
+    "choices": [
+      "線虫類である。",
+      "腟炎の原因となる。",
+      "肛門周囲に産卵する。",
+      "世界各地に分布する。",
+      "オスはメスより大きい。"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-006",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 6,
+    "subject": "臨床検査総論",
+    "image": [
+      "72_AM/72_AM_006.png"
+    ],
+    "question": "尿沈渣所見（別冊No. 2）を別に示す。疑われる疾患はどれか。",
+    "choices": [
+      "シスチン尿症",
+      "ファブリー病",
+      "フェニルケトン尿症",
+      "α1-アンチトリプシン欠損症",
+      "アデニンホスホリボシルトランスフェラーゼ〈APRT〉欠損症"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "72-AM-007",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 7,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "生化学検査にEDTA-2K採血管を使用した。異常低値を示すのはどれか。",
+    "choices": [
+      "鉄",
+      "リン",
+      "クロース",
+      "グルコース",
+      "ナトリウム"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "72-AM-008",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 8,
+    "subject": "臨床検査総論",
+    "image": [],
+    "question": "医療安全で正しいのはどれか。",
+    "choices": [
+      "コミュニケーションは医療事故防止対策となる。",
+      "インシデントレポートは原因となった個人を同定することが目的である。",
+      "臨床検査関連の業務では、検査後プロセスでのインシデントが一番多い。",
+      "ハインリッヒの法則によれば1件の重大事故の裏には約10件のヒヤリ・ハット事例がある。",
+      "医療現場の事故の大部分はノンテクニカルスキルよりテクニカルスキルの不足が原因で発生する。"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "72-AM-009",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 9,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "プリン塩基はどれか。2つ選べ",
+    "choices": [
+      "チミン",
+      "アデニン",
+      "ウラシル",
+      "グアニン",
+      "シトシン"
+    ],
+    "answer": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "72-AM-010",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 10,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "関節液中にピロリン酸カルシウム結晶が認められるのはどれか。",
+    "choices": [
+      "痛風",
+      "偽痛風",
+      "化膿性関節炎",
+      "変形性関節症",
+      "関節リウマチ〈RA〉"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "72-AM-011",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 11,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "肝硬変で低値を示すのはどれか。",
+    "choices": [
+      "アンモニア",
+      "総ビリルビン",
+      "ChE",
+      "γ-グロブリン",
+      "γ-GT"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-012",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 12,
+    "subject": "臨床検査医学総論",
+    "image": [],
+    "question": "自己免疫疾患でないのはどれか。",
+    "choices": [
+      "関節リウマチ〈RA〉",
+      "原発性胆汁性胆管炎〈PBC〉",
+      "Basedow 病",
+      "Duchenne 型筋ジストロフィ",
+      "1 型糖尿病"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-013",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 13,
+    "subject": "臨床検査総論",
+    "image": [],
+    "question": "対象集団の有病率の影響を受けるのはどれか。",
+    "choices": [
+      "感度",
+      "特異度",
+      "偽陽性率",
+      "陽性尤度比",
+      "陽性適（的）中率"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-014",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 14,
+    "subject": "臨床生理学",
+    "image": [],
+    "question": "徐脈性不整脈に分類されるのはどれか。",
+    "choices": [
+      "心室細動",
+      "心房粗動",
+      "心室期外収縮",
+      "洞不全症候群",
+      "発作性上室頻拍"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-015",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 15,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "副甲状腺機能低下症で認められるのはどれか。",
+    "choices": [
+      "多尿",
+      "抑うつ",
+      "テタニー",
+      "尿路結石",
+      "病的骨折"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-016",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 16,
+    "subject": "臨床生理学",
+    "image": [],
+    "question": "僧帽弁輪運動速度の e' 波で正しいのはどれか。",
+    "choices": [
+      "左室拡張末期にみられる。",
+      "心尖部四腔像で計測する。",
+      "連続波ドプラ法を使用する。",
+      "基線より上向きの波形である。",
+      "僧帽弁輪部の心尖部方向への運動を表す。"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "72-AM-017",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 17,
+    "subject": "臨床生理学",
+    "image": [
+      "72_AM/72_AM_017.png"
+    ],
+    "question": "右肋骨弓下走査の超音波像（別冊No. 3）を別に示す。\n適正な画像調整で正しいのはどれか。",
+    "choices": [
+      "ゲインを高くする。",
+      "ゼロシフトを行う。",
+      "スラント走査を行う。",
+      "ダイナミックレンジを広くする。",
+      "STC〈sensitivity time control〉を調整する。"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-018",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 18,
+    "subject": "臨床生理学",
+    "image": [],
+    "question": "超音波検査でカメレオンサインがみられるのはどれか。",
+    "choices": [
+      "肝囊胞",
+      "肝膿瘍",
+      "肝血管腫",
+      "肝細胞がん",
+      "転移性肝がん"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-019",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 19,
+    "subject": "臨床生理学",
+    "image": [],
+    "question": "循環生理で正しいのはどれか。",
+    "choices": [
+      "肺動脈圧と大動脈圧は等しい。",
+      "三尖弁は左房と左室の間にある。",
+      "肺静脈から右房に血液が流入する。",
+      "心拍出量は左室 1 回拍出量と心拍数の積で決まる。",
+      "肺動脈には酸素飽和度の高い動脈血が流れている。"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-020",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 20,
+    "subject": "臨床生理学",
+    "image": [],
+    "question": "針筋電図検査で随意収縮により記録されるのはどれか。",
+    "choices": [
+      "陽性鋭波",
+      "運動単位電位",
+      "線維自発電位",
+      "線維束自発電位",
+      "ミオトニー放電"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "72-AM-021",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 21,
+    "subject": "臨床生理学",
+    "image": [
+      "72_AM/72_AM_021.png"
+    ],
+    "question": "反復神経刺激検査の小指外転筋における記録波形（別冊No. 4）を別に示す。\nこの現象に関わるのはどれか。",
+    "choices": [
+      "Ca2+",
+      "Cl-",
+      "K+",
+      "Mg2+",
+      "Na+"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "72-AM-022",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 22,
+    "subject": "臨床生理学",
+    "image": [],
+    "question": "心電図所見で基準範囲内であるのはどれか。",
+    "choices": [
+      "P 波幅 0.20 秒",
+      "PR 時間 0.26 秒",
+      "QRS 時間 0.16 秒",
+      "補正 QT 時間〈QTc〉 0.42 秒",
+      "R-R 間隔 0.40 秒"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-023",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 23,
+    "subject": "臨床生理学",
+    "image": [],
+    "question": "換気で正しいのはどれか。2 つ選べ。",
+    "choices": [
+      "換気は内呼吸である。",
+      "肺胞換気量と PaCO2 は反比例する。",
+      "無意識下の換気は小脳で調節される。",
+      "末梢化学受容器は酸素の低下を検出する。",
+      "一回換気量と呼吸数の積で肺胞換気量になる。"
+    ],
+    "answer": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "72-AM-024",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 24,
+    "subject": "臨床生理学",
+    "image": [],
+    "question": "ノーズクリップが必要な検査はどれか。2 つ選べ。",
+    "choices": [
+      "パルスオキシメータ",
+      "ピークフローメータ",
+      "一回呼吸法による DLco 測定",
+      "呼気一酸化窒素濃度〈FeNO〉測定",
+      "オシロメトリー〈強制オシレーション法〉による呼吸抵抗測定"
+    ],
+    "answer": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "72-AM-025",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 25,
+    "subject": "臨床生理学",
+    "image": [
+      "72_AM/72_AM_025.png"
+    ],
+    "question": "脳波（別冊No. 5）を別に示す。\n認められるのはどれか。2 つ選べ。",
+    "choices": [
+      "α 波",
+      "瞬目",
+      "紡錘波",
+      "徐波群発",
+      "高振幅速波"
+    ],
+    "answer": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "72-AM-026",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 26,
+    "subject": "臨床生理学",
+    "image": [],
+    "question": "健常者の正中神経を手関節部で電気刺激したときに大脳皮質で最初に生じる反応はどれか。",
+    "choices": [
+      "N9",
+      "N13",
+      "N20",
+      "P31",
+      "P37"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-027",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 27,
+    "subject": "臨床生理学",
+    "image": [
+      "72_AM/72_AM_027.png"
+    ],
+    "question": "心筋梗塞の心電図（別冊No. 6）を別に示す。\n推定される梗塞領域はどれか。",
+    "choices": [
+      "下壁と後壁",
+      "下壁と側壁",
+      "後壁と側壁",
+      "前壁中隔と下壁",
+      "前壁中隔と側壁"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-028",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 28,
+    "subject": "臨床生理学",
+    "image": [
+      "72_AM/72_AM_028.png"
+    ],
+    "question": "心電図（別冊No. 7）を別に示す。\n心電図所見はどれか。2 つ選べ。",
+    "choices": [
+      "洞停止",
+      "心室頻拍",
+      "心房細動",
+      "洞不整脈",
+      "完全右脚ブロック"
+    ],
+    "answer": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "72-AM-029",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 29,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "2 ポイント法で第 1 試薬反応後の吸光度は 0.005、第 2 試薬反応後の吸光度は 0.200 であった。\n検体盲検補正後の吸光度はどれか。\nただし、検体量は 10 μL、第 1 試薬量は 230 μL、第 2 試薬量は 60 μL とする。",
+    "choices": [
+      "0.192",
+      "0.196",
+      "0.200",
+      "0.204",
+      "0.208"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "72-AM-030",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 30,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "ビリルビンで誤っているのはどれか。",
+    "choices": [
+      "遊離型ビリルビンは水に不溶性である。",
+      "非抱合型ビリルビンは細胞毒性を有する。",
+      "ビリルビンは抗酸化物質として機能する。",
+      "間接ビリルビンはジアゾ反応に反応促進剤を必要とする。",
+      "抱合型ビリルビンはアルブミンと結合してシャントビリルビンとなる。"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-031",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 31,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "日本臨床化学会〈JSCC〉勧告法で試薬に脱水素酵素が含まれるのはどれか。",
+    "choices": [
+      "ALP",
+      "AMY",
+      "CK",
+      "LD",
+      "γ-GT"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-032",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 32,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "血清総蛋白の検査で誤っているのはどれか。",
+    "choices": [
+      "脱水状態で上昇する。",
+      "蛋白質は 280 nm に極大吸収を持つ。",
+      "座位の基準範囲は 6.6～8.1 g/dL である。",
+      "血清の屈折率は総蛋白濃度に反比例する。",
+      "ビウレット反応はトリペプチドで起こる。"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-033",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 33,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "レシチンコレステロールアシルトランスフェラーゼ〈LCAT〉を活性化するのはどれか。2 つ選べ。",
+    "choices": [
+      "アポ AⅠ",
+      "アポ B48",
+      "アポ CⅠ",
+      "アポ CⅡ",
+      "アポ E"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "72-AM-034",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 34,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "酵素法でクレアチニンを測定する際に用いられるのはどれか。2 つ選べ。",
+    "choices": [
+      "ウリカーゼ",
+      "乳酸脱水素酵素",
+      "クレアチニナーゼ",
+      "リンゴ酸脱水素酵素",
+      "ザルコシンオキシダーゼ"
+    ],
+    "answer": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "72-AM-035",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 35,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "レチノール結合蛋白〈RBP〉と結合するビタミンはどれか。",
+    "choices": [
+      "A",
+      "C",
+      "D",
+      "E",
+      "K"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "72-AM-036",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 36,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "敗血症マーカーはどれか。",
+    "choices": [
+      "KL-6",
+      "シスタチン C",
+      "トロポニン T",
+      "カルプロテクチン",
+      "プロカルシトニン"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-037",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 37,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "アニオンギャップが上昇するのはどれか。",
+    "choices": [
+      "嘔吐",
+      "下痢",
+      "乳酸アシドーシス",
+      "尿細管性アシドーシス",
+      "副甲状腺機能亢進症"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-038",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 38,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "グルコース測定におけるヘキソキナーゼ・グルコース-6-リン酸デヒドロゲナーゼ法で正しいのはどれか。",
+    "choices": [
+      "酵素電極法で使用される。",
+      "NAD+の吸光度を測定する。",
+      "アスコルビン酸の影響を受ける。",
+      "試薬にはムタロターゼが必要である。",
+      "日本臨床化学会〈JSCC〉勧告法である。"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-039",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 39,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "ペプチドホルモンはどれか。",
+    "choices": [
+      "アドレナリン",
+      "コルチゾール",
+      "テストステロン",
+      "トリヨードサイロニン",
+      "ヒト絨毛性ゴナドトロピン〈hCG〉"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-040",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 40,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "クレアチニンで正しいのはどれか。",
+    "choices": [
+      "肝臓で合成される。",
+      "尿細管で再吸収される。",
+      "血漿濃度は脱水症で低値を示す。",
+      "血漿濃度の基準範囲には男女差がある。",
+      "血漿濃度は Duchenne 型筋ジストロフィで高値を示す。"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-041",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 41,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "アミラーゼで誤っているのはどれか。",
+    "choices": [
+      "Cl- で活性化される。",
+      "加水分解酵素である。",
+      "α-1,6-グリコシド結合を切断する。",
+      "唾液腺型は膵型より高分子量である。",
+      "腎不全では血清アミラーゼ値が上昇する。"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-042",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 42,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "インドシアニングリーン〈ICG〉試験で正しいのはどれか。",
+    "choices": [
+      "早朝空腹時に行う。",
+      "ICG を経口投与する。",
+      "ICG は光に安定である。",
+      "肝合成能の評価に用いられる。",
+      "ICG 投与から 1 時間後に採血を行う。"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "72-AM-043",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 43,
+    "subject": "医用工学概論",
+    "image": [],
+    "question": "放射線感受性が最も高いのはどれか。",
+    "choices": [
+      "肝細胞",
+      "脂肪細胞",
+      "心筋細胞",
+      "神経細胞",
+      "造血器細胞"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-044",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 44,
+    "subject": "臨床化学",
+    "image": [],
+    "question": "空腹時血清中総コレステロール 250 mg/dL、トリグリセライド 150 mg/dL、HDL-コレステロール 50 mg/dL のとき、Friedewald の計算式から求めた LDL-コレステロール値［mg/dL］はどれか。",
+    "choices": [
+      "50",
+      "100",
+      "170",
+      "200",
+      "230"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-045",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 45,
+    "subject": "病理組織細胞学",
+    "image": [],
+    "question": "組織標本作製用固定液で正しいのはどれか。",
+    "choices": [
+      "10％ホルマリンは中性脂肪を溶解する。",
+      "グルタルアルデヒドは組織への浸透力が強い。",
+      "4％パラホルムアルデヒドにはギ酸が含まれる。",
+      "10％中性緩衝ホルマリンは網羅的遺伝子解析に適する。",
+      "10％中性ホルマリンの作製には塩化ナトリウムを用いる。"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-046",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 46,
+    "subject": "病理組織細胞学",
+    "image": [],
+    "question": "ミクロトームで正しいのはどれか。2 つ選べ。",
+    "choices": [
+      "刃の先端角度〈刃角〉は 2 °である。",
+      "ユング型ミクロトームの逃げ角は 90 °である。",
+      "クリオスタットはミノー型ミクロトームである。",
+      "ミノー型ミクロトームの逃げ角は 2 ～10 °である。",
+      "クロスローラーベアリング方式のミクロトームは回転式である。"
+    ],
+    "answer": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "72-AM-047",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 47,
+    "subject": "病理組織細胞学",
+    "image": [],
+    "question": "染色結果で正しいのはどれか。",
+    "choices": [
+      "azan 染色で膠原線維は赤色に染まる。",
+      "渡辺の鍍銀法で細網線維は赤褐色に染まる。",
+      "Congo red 染色でアミロイドは灰色に染まる。",
+      "PAM 染色でメサンギウム基質は青色に染まる。",
+      "elastica van Gieson 染色で弾性線維は紫黒色に染まる。"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-048",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 48,
+    "subject": "病理組織細胞学",
+    "image": [],
+    "question": "健常成人で肝臓に接していないのはどれか。",
+    "choices": [
+      "腎臓",
+      "胆囊",
+      "横隔膜",
+      "横行結腸",
+      "腹部大動脈"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-049",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 49,
+    "subject": "病理組織細胞学",
+    "image": [
+      "72_AM/72_AM_049.png"
+    ],
+    "question": "H-E 染色標本（別冊No. 8）を別に示す。\nこの組織はどれか。",
+    "choices": [
+      "汗腺",
+      "胸腺",
+      "乳腺",
+      "甲状腺",
+      "唾液腺"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-050",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 50,
+    "subject": "病理組織細胞学",
+    "image": [],
+    "question": "組織と胚葉の組合せで正しいのはどれか。",
+    "choices": [
+      "筋肉 —---- 外胚葉",
+      "血管 —---- 外胚葉",
+      "脊髄 —---- 中胚葉",
+      "肺胞 —---- 中胚葉",
+      "甲状腺 —---- 内胚葉"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-051",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 51,
+    "subject": "臨床検査医学総論",
+    "image": [],
+    "question": "糖尿病で正しいのはどれか。",
+    "choices": [
+      "解糖系が促進する。",
+      "糖新生は抑制される。",
+      "早期から尿量が減少する。",
+      "ケトン体の産生が亢進する。",
+      "2 型糖尿病は膵島 β 細胞の破壊に起因する。"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-052",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 52,
+    "subject": "病理組織細胞学",
+    "image": [],
+    "question": "潰瘍性大腸炎で正しいのはどれか。",
+    "choices": [
+      "回盲部に多い。",
+      "胃がんの合併が多い。",
+      "陰部潰瘍を合併する。",
+      "高齢者での発症が多い。",
+      "組織学的には陰窩膿瘍を特徴とする。"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-053",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 53,
+    "subject": "病理組織細胞学",
+    "image": [],
+    "question": "ピクリン酸を含む固定液はどれか。",
+    "choices": [
+      "ブアン液",
+      "カルノア液",
+      "20％ホルマリン",
+      "2 ％オスミウム酸液",
+      "Periodate-lysine-paraformaldehyde〈PLP〉液"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "72-AM-054",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 54,
+    "subject": "病理組織細胞学",
+    "image": [
+      "72_AM/72_AM_054.png"
+    ],
+    "question": "心筋の特殊染色標本（別冊No. 9）を別に示す。\n染色法はどれか。",
+    "choices": [
+      "azan 染色",
+      "PTAH 染色",
+      "Berlin blue 染色",
+      "Victoria blue 染色",
+      "Klüver-Barrera 染色"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "72-AM-055",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 55,
+    "subject": "病理組織細胞学",
+    "image": [],
+    "question": "炎症性肉芽組織に出現しない細胞はどれか。",
+    "choices": [
+      "好中球",
+      "リンパ球",
+      "線維芽細胞",
+      "平滑筋細胞",
+      "血管内皮細胞"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-056",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 56,
+    "subject": "病理組織細胞学",
+    "image": [],
+    "question": "遺伝性腫瘍とその原因遺伝子の組合せで正しいのはどれか。",
+    "choices": [
+      "遺伝性乳癌卵巣癌症候群 —---- RB",
+      "家族性大腸腺腫症 —---- APC",
+      "網膜芽細胞腫 —---- RET",
+      "Cowden 病 —---- BRCA1",
+      "Li-Fraumeni 症候群 —---- PTEN"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "72-AM-057",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 57,
+    "subject": "病理組織細胞学",
+    "image": [],
+    "question": "膀胱癌で誤っているのはどれか。",
+    "choices": [
+      "腺癌が多い。",
+      "男性に多い。",
+      "高齢者に多い。",
+      "多発発生する。",
+      "初発症状は血尿が多い。"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "72-AM-058",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 58,
+    "subject": "病理組織細胞学",
+    "image": [
+      "72_AM/72_AM_058.png"
+    ],
+    "question": "子宮頸部細胞診の Papanicolaou 染色標本（別冊No. 10）を別に示す。\nBethesda システムによる判定はどれか。",
+    "choices": [
+      "NILM",
+      "ASC-US",
+      "LSIL",
+      "HSIL",
+      "Adenocarcinoma"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-059",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 59,
+    "subject": "臨床血液学",
+    "image": [],
+    "question": "赤血球で正しいのはどれか。",
+    "choices": [
+      "ヘムには 3 価の鉄原子が含まれる。",
+      "老朽化した赤血球は変形しやすい。",
+      "網赤血球は成熟赤血球よりも小さい。",
+      "ヘムは代謝によりピリミジンと鉄に分解される。",
+      "酸素分圧が低下するとヘモグロビンの酸素飽和度は低下する。"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-060",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 60,
+    "subject": "臨床血液学",
+    "image": [],
+    "question": "急性骨髄性白血病と慢性骨髄性白血病で異なるのはどれか。",
+    "choices": [
+      "CD13 陽性",
+      "白血病裂孔",
+      "骨髄芽球の出現",
+      "特定遺伝子の転座",
+      "ペルオキシダーゼ染色陽性"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "72-AM-061",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 61,
+    "subject": "臨床血液学",
+    "image": [],
+    "question": "線溶因子はどれか。",
+    "choices": [
+      "FDP",
+      "フィブリノゲン",
+      "プラスミノゲン",
+      "プロトロンビン",
+      "アンチトロンビン"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-062",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 62,
+    "subject": "臨床血液学",
+    "image": [
+      "72_AM/72_AM_062.png"
+    ],
+    "question": "骨髄塗抹標本の鉄染色像（別冊No. 11）を別に示す。\n考えられる疾患はどれか。",
+    "choices": [
+      "真性多血症",
+      "悪性リンパ腫",
+      "多発性骨髄腫",
+      "巨赤芽球性貧血",
+      "骨髄異形成症候群"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-063",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 63,
+    "subject": "臨床血液学",
+    "image": [
+      "72_AM/72_AM_063.png"
+    ],
+    "question": "3.14％クエン酸ナトリウム溶液を用いて抗凝固した血液の遠心分離（1,500 G，15 分間）後の状態（別冊No. 12）を別に示す。\n血小板が存在するのは図中矢印のどの位置か。",
+    "choices": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "72-AM-064",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 64,
+    "subject": "臨床血液学",
+    "image": [],
+    "question": "第ⅩⅢ因子で正しいのはどれか。",
+    "choices": [
+      "創傷治癒に関係する。",
+      "欠損症で APTT が延長する。",
+      "蛋白分解酵素の前駆体である。",
+      "活性化第Ⅹ因子により活性化される。",
+      "フィブリン β 鎖間に架橋結合をもたらす。"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "72-AM-065",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 65,
+    "subject": "臨床血液学",
+    "image": [],
+    "question": "APTT が延長しない薬剤はどれか。",
+    "choices": [
+      "ヘパリン",
+      "アスピリン",
+      "直接抗Ⅹa 薬",
+      "ワルファリン",
+      "直接抗トロンビン薬"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "72-AM-066",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 66,
+    "subject": "臨床血液学",
+    "image": [
+      "72_AM/72_AM_066.png"
+    ],
+    "question": "血小板凝集能検査所見（別冊No. 13）を別に示す（図中矢印は各アゴニスト添加を表す）。\n考えられるのはどれか。",
+    "choices": [
+      "血小板無力症",
+      "抗血小板薬服用",
+      "Storage pool 病",
+      "von Willebrand 病",
+      "Bernard-Soulier 症候群"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "72-AM-067",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 67,
+    "subject": "臨床血液学",
+    "image": [],
+    "question": "染色体異常とそれに伴う融合遺伝子との組合せで正しいのはどれか。",
+    "choices": [
+      "t（8；21）（q22；q22） —---- CBFB::MYH11",
+      "t（9；11）（p21.3；q23.3） —---- BCR::ABL1",
+      "t（9；22）（q34；q11.2） —---- MLLT3::KMT2A",
+      "t（15；17）（q22；q12） —---- PML::RARA",
+      "inv（16）（p13.1；q22） —---- RUNX1::RUNX1T1"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-068",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 68,
+    "subject": "臨床微生物学",
+    "image": [],
+    "question": "Cryptococcus neoformans の莢膜の観察に適するのはどれか。",
+    "choices": [
+      "墨汁法",
+      "Hiss 法",
+      "Wirtz 法",
+      "Neisser 法",
+      "Hucker 変法"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "72-AM-069",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 69,
+    "subject": "臨床微生物学",
+    "image": [
+      "72_AM/72_AM_069.png"
+    ],
+    "question": "喀痰の Gram 染色標本（別冊No. 14）を別に示す。\n考えられるのはどれか。",
+    "choices": [
+      "Bacillus cereus",
+      "Corynebacterium diphtheriae",
+      "Staphylococcus aureus",
+      "Streptococcus pyogenes",
+      "Streptococcus pneumoniae"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-070",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 70,
+    "subject": "臨床微生物学",
+    "image": [],
+    "question": "RNA ウイルスはどれか。2 つ選べ。",
+    "choices": [
+      "コロナウイルス",
+      "B 型肝炎ウイルス",
+      "サイトメガロウイルス",
+      "インフルエンザウイルス",
+      "ヒトパピローマウイルス"
+    ],
+    "answer": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "72-AM-071",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 71,
+    "subject": "臨床微生物学",
+    "image": [],
+    "question": "蛋白合成阻害作用を有する抗菌薬はどれか。",
+    "choices": [
+      "キノロン系",
+      "ペニシリン系",
+      "マクロライド系",
+      "グリコペプチド系",
+      "ホスホマイシン系"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-072",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 72,
+    "subject": "臨床微生物学",
+    "image": [],
+    "question": "らせん菌はどれか。",
+    "choices": [
+      "Actinomyces israelii",
+      "Bordetella pertussis",
+      "Helicobacter pylori",
+      "Listeria monocytogenes",
+      "Mycoplasma pneumoniae"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-073",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 73,
+    "subject": "臨床微生物学",
+    "image": [],
+    "question": "Hucker 変法に用いるのはどれか。",
+    "choices": [
+      "サフラニン",
+      "メチレン青",
+      "ビクトリア青",
+      "石炭酸フクシン",
+      "アセトン・エタノール"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "72-AM-074",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 74,
+    "subject": "臨床微生物学",
+    "image": [],
+    "question": "プラスミドで正しいのはどれか。",
+    "choices": [
+      "ウイルスが保有する。",
+      "一本鎖の RNA である。",
+      "接合によって伝達する。",
+      "染色体内に含まれる遺伝因子である。",
+      "ゲノム上を転移できる塩基配列である。"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-075",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 75,
+    "subject": "臨床微生物学",
+    "image": [],
+    "question": "Streptococcus pyogenes で正しいのはどれか。",
+    "choices": [
+      "バシトラシン耐性である。",
+      "カタラーゼ試験陽性である。",
+      "α 溶血のコロニーを形成する。",
+      "Lancefield 分類 A 群に属する。",
+      "pyrrolidonyl arylamidase〈PYR〉試験陰性である。"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-076",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 76,
+    "subject": "臨床微生物学",
+    "image": [],
+    "question": "ヒトの粘膜の消毒に用いるのはどれか。",
+    "choices": [
+      "逆性石鹸",
+      "クレゾール石鹸",
+      "グルタルアルデヒド",
+      "消毒用エタノール",
+      "次亜塩素酸ナトリウム"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "72-AM-077",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 77,
+    "subject": "臨床微生物学",
+    "image": [],
+    "question": "二形性真菌はどれか。",
+    "choices": [
+      "Aspergillus fumigatus",
+      "Candida albicans",
+      "Exophiala dermatitidis",
+      "Microsporum canis",
+      "Sporothrix schenckii"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-078",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 78,
+    "subject": "臨床微生物学",
+    "image": [
+      "72_AM/72_AM_078.png"
+    ],
+    "question": "Escherichia coli を対象に実施した薬剤耐性の確認試験（別冊No. 15）を別に示す。\n検出目的の β-ラクタマーゼはどれか。",
+    "choices": [
+      "オキサシリナーゼ",
+      "基質拡張型 β-ラクタマーゼ",
+      "セファロスポリナーゼ",
+      "ペニシリナーゼ",
+      "メタロ-β-ラクタマーゼ"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "72-AM-079",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 79,
+    "subject": "臨床免疫学",
+    "image": [],
+    "question": "抗原提示細胞はどれか。",
+    "choices": [
+      "好酸球",
+      "NK 細胞",
+      "樹状細胞",
+      "肥満細胞",
+      "ヘルパー T 細胞"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-080",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 80,
+    "subject": "臨床免疫学",
+    "image": [],
+    "question": "標識免疫測定法で正しいのはどれか。",
+    "choices": [
+      "化学発光免疫測定法は散乱光を測定する。",
+      "不均一測定法は B/F 分離を必要としない。",
+      "均一測定法はハプテンの定量に用いられる。",
+      "蛍光免疫測定法は励起光の強度を測定する。",
+      "生物発光免疫測定法にはルテニウム錯体が用いられる。"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-081",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 81,
+    "subject": "臨床免疫学",
+    "image": [],
+    "question": "食細胞機能が障害されるのはどれか。",
+    "choices": [
+      "慢性肉芽腫症",
+      "DiGeorge 症候群",
+      "重症複合免疫不全症",
+      "無 γ-グロブリン血症",
+      "Wiskott-Aldrich 症候群"
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "72-AM-082",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 82,
+    "subject": "臨床免疫学",
+    "image": [],
+    "question": "抗体のがん抗原結合部分と T 細胞刺激伝達分子を融合させたキメラ抗原受容体でがん細胞を攻撃する治療法はどれか。",
+    "choices": [
+      "減感作療法",
+      "CAR-T 療法",
+      "中和抗体療法",
+      "分子標的療法",
+      "ステロイドパルス療法"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "72-AM-083",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 83,
+    "subject": "臨床免疫学",
+    "image": [],
+    "question": "溶解反応を原理とする検査はどれか。2 つ選べ。",
+    "choices": [
+      "寒冷凝集反応",
+      "RPR カードテスト",
+      "直接抗グロブリン試験",
+      "血清補体価〈CH50〉測定",
+      "Donath-Landsteiner 試験"
+    ],
+    "answer": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "72-AM-084",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 84,
+    "subject": "臨床免疫学",
+    "image": [
+      "72_AM/72_AM_084.png"
+    ],
+    "question": "急性 B 型肝炎の自然経過における各マーカー相対量の推移（別冊No. 16）を別に示す。\nHBs 抗体はどれか。",
+    "choices": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-085",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 85,
+    "subject": "輸血・移植検査学",
+    "image": [],
+    "question": "ABO 血液型抗原で正しいのはどれか。",
+    "choices": [
+      "発現は赤血球膜上に限局している。",
+      "遺伝子は第 9 染色体の長腕に存在する。",
+      "A1 型の抗原発現量は成人より新生児の方が多い。",
+      "A 遺伝子は B 遺伝子に対して潜性〈劣性〉である。",
+      "B 型は N-アセチルガラクトサミンと結合している。"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "72-AM-086",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 86,
+    "subject": "輸血・移植検査学",
+    "image": [
+      "72_AM/72_AM_086.png"
+    ],
+    "question": "間接抗グロブリン試験による不規則抗体スクリーニングのカラム凝集像（別冊No. 17）を別に示す。\n考えられるのはどれか。",
+    "choices": [
+      "連銭形成",
+      "寒冷凝集反応",
+      "不規則抗体を保有",
+      "フィブリンの析出",
+      "抗血小板抗体を保有"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-087",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 87,
+    "subject": "輸血・移植検査学",
+    "image": [],
+    "question": "ABO 血液型検査で正しいのはどれか。",
+    "choices": [
+      "ウラ検査はスライド法で行う。",
+      "ウラ検査は 37 ℃で反応させる。",
+      "オモテ検査の試薬は 2 滴滴下する。",
+      "ウラ検査は血漿（血清）を 2 滴滴下する。",
+      "オモテ検査の試験管法は 10％赤血球浮遊液を作製する。"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-088",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 88,
+    "subject": "輸血・移植検査学",
+    "image": [],
+    "question": "血液製剤と外観検査項目との関係で誤っているのはどれか。",
+    "choices": [
+      "血小板製剤 —---- 凝固物",
+      "血小板製剤 —---- 色調",
+      "赤血球製剤 —---- 溶血",
+      "新鮮凍結血漿 —---- スワーリング",
+      "新鮮凍結血漿 —---- 融解時の異物"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-089",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 89,
+    "subject": "輸血・移植検査学",
+    "image": [],
+    "question": "抗 HLA 抗体が関与する疾患または病態はどれか。",
+    "choices": [
+      "輸血後紫斑病〈PTP〉",
+      "血小板輸血不応〈PTR〉",
+      "自己免疫性溶血性貧血〈AIHA〉",
+      "特発性血小板減少性紫斑病〈ITP〉",
+      "血栓性血小板減少性紫斑病〈TTP〉"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "72-AM-090",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 90,
+    "subject": "公衆衛生学",
+    "image": [],
+    "question": "2022 年（令和 4 年）の国民生活基礎調査で、有訴者率が男女とも第 1 位だった症状はどれか。",
+    "choices": [
+      "頭痛",
+      "頻尿",
+      "腰痛",
+      "鼻づまり",
+      "目のかすみ"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "72-AM-091",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 91,
+    "subject": "公衆衛生学",
+    "image": [],
+    "question": "食事バランスガイド（厚生労働省・農林水産省決定）における主菜はどれか。",
+    "choices": [
+      "ごはん",
+      "チーズ",
+      "みかん",
+      "焼き魚",
+      "野菜サラダ"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-092",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 92,
+    "subject": "公衆衛生学",
+    "image": [],
+    "question": "労災保険〈労働者災害補償保険〉で正しいのはどれか。",
+    "choices": [
+      "保険料は労働者が負担する。",
+      "通勤中の負傷は対象外である。",
+      "パート職員は給付対象外である。",
+      "治療費の自己負担割合は 3 割である。",
+      "業務上の事由による障害は対象である。"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-093",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 93,
+    "subject": "公衆衛生学",
+    "image": [],
+    "question": "予防接種で不活化ワクチンが使用されているのはどれか。",
+    "choices": [
+      "黄熱",
+      "風疹",
+      "麻疹",
+      "日本脳炎",
+      "流行性耳下腺炎"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-094",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 94,
+    "subject": "公衆衛生学",
+    "image": [],
+    "question": "国勢調査で分かるのはどれか。",
+    "choices": [
+      "粗死亡率",
+      "平均寿命",
+      "総再生産率",
+      "老年化指数",
+      "合計特殊出生率"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-095",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 95,
+    "subject": "医用工学概論",
+    "image": [],
+    "question": "バイポーラトランジスタで正しいのはどれか。",
+    "choices": [
+      "MOS 型が存在する。",
+      "端子名にゲートがある。",
+      "pn 接合面は一つである。",
+      "電圧制御型の素子である。",
+      "動作には自由電子と正孔〈ホール〉の両方が関与する。"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-096",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 96,
+    "subject": "医用工学概論",
+    "image": [],
+    "question": "臨床検査システム〈LIS〉で扱われる大量の検査データを効率的に取り扱う仕組みはどれか。",
+    "choices": [
+      "ウェブブラウザ",
+      "オフィススイート",
+      "オペレーティングシステム",
+      "データベース管理システム",
+      "プログラミング言語"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-097",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 97,
+    "subject": "医用工学概論",
+    "image": [],
+    "question": "入力された信号を 1000 倍にする増幅器がある。この増幅器の利得［dB］はどれか。",
+    "choices": [
+      "10",
+      "20",
+      "40",
+      "60",
+      "80"
+    ],
+    "answer": [
+      4
+    ]
+  },
+  {
+    "id": "72-AM-098",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 98,
+    "subject": "医用工学概論",
+    "image": [
+      "72_AM/72_AM_098.png"
+    ],
+    "question": "ME 機器の耐除細動形 CF 形装着部を表す図記号はどれか。",
+    "choices": [
+      "図記号1",
+      "図記号2",
+      "図記号3",
+      "図記号4",
+      "図記号5"
+    ],
+    "answer": [
+      5
+    ]
+  },
+  {
+    "id": "72-AM-099",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 99,
+    "subject": "医用工学概論",
+    "image": [],
+    "question": "超音波検査における吸収〈減衰〉係数が最も大きいのはどれか。",
+    "choices": [
+      "筋肉",
+      "空気",
+      "血液",
+      "脂肪",
+      "水"
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "72-AM-100",
+    "exam_number": 72,
+    "session": "AM",
+    "number": 100,
+    "subject": "医用工学概論",
+    "image": [],
+    "question": "商用交流による皮膚表面での最小感知電流とされる電流［mA］はどれか。",
+    "choices": [
+      "0.1",
+      "1",
+      "10",
+      "100",
+      "1,000"
+    ],
+    "answer": [
+      2
+    ]
+  }
+]
